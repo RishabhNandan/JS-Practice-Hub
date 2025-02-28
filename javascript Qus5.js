@@ -1,6 +1,5 @@
-5.//Write a MENU DRIVEN program which enter two integer and perform any one of the giveen arthemethical calculatin, depending one of the user choice from menu.
-
-let num1 = 10; 
+5.Write a MENU DRIVEN program which enter two integer and perform any one of the giveen arthemethical calculatin, depending one of the user choice from menu.
+Solve:-let num1 = 10; 
 let num2 = 5;  
 console.log("Menu:");
 console.log("1. Addition");
@@ -20,6 +19,7 @@ if (choice === 1) {
     console.log("Invalid choice!"); 
 }
 // OR
+Solve:-(2)
 
 let num1 = 10; 
 let num2 = 5; 
